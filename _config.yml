@@ -11,7 +11,7 @@ theme_settings:
   profile:
     image: assets/img/smile.png
     username: TAVE 6기 강화학습팀
-    description: Reinforcement Learning
+    description: 간단한 설명
     experience:
       - start: 2020-08-13
         end:
@@ -19,6 +19,10 @@ theme_settings:
     skills:
       - skill: STUDY & PROJECTS
         value: 5 # Percent value
+    teammember:
+      - name1: 영어이름 , 영어이름
+      - name2: blah
+      - name3: blah
 
   # Icons
   icons:
