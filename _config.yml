@@ -1,6 +1,7 @@
 # Site Settings
 baseurl: ""
 url: "https://tave-6th-rlstudy.github.io/"
+google_analytics: UA-164515885-2
 
 # Blog Settings
 theme_settings:
