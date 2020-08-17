@@ -39,7 +39,7 @@ theme_settings:
     instagram:
 
   # Disqus
-  disqus_shortname:
+  disqus_shortname: "tave-6th-rlstudy.github.io"
 
 # Pagination
 paginate: 5
