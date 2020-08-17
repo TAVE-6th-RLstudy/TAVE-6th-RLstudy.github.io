@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://TAVE-6th-RLstudy.github.io/sitemap.xml

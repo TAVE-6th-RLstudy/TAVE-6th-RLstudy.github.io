@@ -1,14 +1,21 @@
 ---
 layout: post
 title: Sample Post with Markdown
-subtitle : How markdown is displayed as html
+subtitle: How markdown is displayed as html
 tags: [Sample Post, Demo]
-author: Nayeong Kim
-comments : True
+author: LEE
+comments: True
+date: 2017-10-20
+lastmod: 2017-10-20 12:00:00
+sitemap:
+changefreq: daily
+priority: 1.0
 ---
 
-This post show result from awesome Markdown techniques like jekyll. 
-`Jekyll` supports to transform your plain text into static websites and blogs. 
+https://gmlwjd9405.github.io/2017/10/20/include-blog-in-a-GoogleSearchEngine.html
+
+This post show result from awesome Markdown techniques like jekyll.
+`Jekyll` supports to transform your plain text into static websites and blogs.
 
 you can easy to change style in `_utility.html` and a sample of the formatting follows.
 
@@ -87,6 +94,7 @@ Try using `.width-30`, `.width-40`, `.width-50`, `.width-60`, `.width-70` and `.
 ![sample image]({{ site.baseurl }}/assets/img/koreaSunset.jpg){: .width-80}
 {% endhighlight %}
 ![sample image]({{ site.baseurl }}/assets/img/koreaSunset.jpg)
+
 <p></p>
 ![sample image]({{ site.baseurl }}/assets/img/koreaSunset.jpg){: .width-30}
 ![sample image]({{ site.baseurl }}/assets/img/koreaSunset.jpg){: .width-50}
