@@ -1,17 +1,16 @@
-{% assign _url = page.url | split: "/" %}
-{% assign current = _url[-1] | split: "." %}
+{% assign _url = page.url | split: "/" %} {% assign current = _url[-1] | split:
+"." %}
 <header>
   <nav>
     <ul>
-      {% case current[0] %}
-      {% when 'tags'%}
+      {% case current[0] %} {% when 'tags'%}
       <!-- tags -->
       <a href="{{ site.url }}">
         <li class="btn-nav">Blog</li>
       </a>
       <li class="current">Tags</li>
       <a href="{{ site.url }}/portfolio">
-        <li class="btn-nav">Portfolio</li>
+        <li class="btn-nav">ABOUT</li>
       </a>
       <!-- portfolio -->
       {% when 'portfolio'%}
@@ -21,7 +20,7 @@
       <a href="{{ site.url }}/tags">
         <li class="btn-nav">Tags</li>
       </a>
-      <li class="current">Portfolio</li>
+      <li class="current">ABOUT</li>
       {% else %}
       <!-- others -->
       <a href="{{ site.url }}">
@@ -31,7 +30,7 @@
         <li class="btn-nav">Tags</li>
       </a>
       <a href="{{ site.url }}/portfolio">
-        <li class="btn-nav">Portfolio</li>
+        <li class="btn-nav">ABOUT</li>
       </a>
       {% endcase %}
     </ul>
