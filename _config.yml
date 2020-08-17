@@ -6,6 +6,7 @@ google_analytics: UA-164515885-2
 # Blog Settings
 theme_settings:
   title: TAVE 6TH RL Stydy
+  description: Reinforcement Learning
   favicon: assets/favicon.ico
 
   # Profile Settings
@@ -18,12 +19,12 @@ theme_settings:
         end:
         experience: TAVE, Reinforcement Learning
     skills:
-      - skill: STUDY & PROJECTS
-        value: 5 # Percent value
+      - skill: STUDY
+        value: 16 # Percent value
     teammember:
-      - name1: 영어이름 , 영어이름
-      - name2: blah
-      - name3: blah
+      - name1: Park Jeiyoon | Lee Moonki
+      - name2: Im Sooyeon   | Cho Jaehoon
+      - name3: Lee Sangwon  | Park Yewon
 
   # Icons
   icons:
