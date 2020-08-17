@@ -5,8 +5,8 @@ subtitle: How markdown is displayed as html
 tags: [Sample Post, Demo]
 author: LEE
 comments: True
-date: 2017-10-20
-lastmod: 2017-10-20 12:00:00
+date: 2020-08-17
+lastmod: 2020-08-17 12:00:00
 sitemap:
 changefreq: daily
 priority: 1.0
