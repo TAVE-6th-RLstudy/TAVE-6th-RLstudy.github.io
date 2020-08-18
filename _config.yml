@@ -13,7 +13,7 @@ theme_settings:
   profile:
     image: assets/img/smile.png
     username: TAVE 6기 강화학습팀
-    description: 간단한 설명
+    description: Reinforcement Learning Study&Project
     experience:
       - start: 2020-08-13
         end:
