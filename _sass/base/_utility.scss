@@ -1,5 +1,13 @@
 // Definition of tag style in post
 #post {
+  .bold {
+    font-weight: bold;
+  }
+  sup,
+  sub {
+    font-size: x-small;
+    line-height: 0;
+  }
   h1,
   h2,
   h3,
