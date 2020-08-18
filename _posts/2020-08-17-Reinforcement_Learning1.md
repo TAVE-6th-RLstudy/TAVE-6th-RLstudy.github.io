@@ -12,18 +12,6 @@ changefreq: daily
 priority: 1.0
 ---
 
-# 0. 스터디 자료
-
-##### [1/3] 이 자료는 링크를 가지고 있는 모든 테이브 회원들이 사용 가능합니다.
-
-[jeiyoon.github.io](https://jeiyoon.github.io/data/ipa_1.pdf)
-
-##### [2/3] 이번 스터디 핵심 내용들을 블로그에 잘 정리하여 테이브 회원들이 이용 가능하도록 할 예정입니다.
-
-[tave-6th-rlstudy.github.io](https://tave-6th-rlstudy.github.io/)
-
-##### [3/3] 본 문서에 나오는 내용은 스터디 구성원 외 수정을 금지합니다. (그림출처: 박제윤)
-
 <h1>Outline</h1>
 <ol>
 <li>강화학습 개요</li>
