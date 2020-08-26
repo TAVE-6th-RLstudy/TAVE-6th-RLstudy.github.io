@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reinforcement Learning Study(Week 1)
+title: Reinforcement Learning Study(Day 1)
 subtitle: 테이블 기반 고전 강화학습
 tags: [TAVE, Study, RL]
 author: Park Jaiyoon
