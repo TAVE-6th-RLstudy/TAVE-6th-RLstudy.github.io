@@ -3,7 +3,7 @@ layout: post
 title: Reinforcement Learning Study(Day 2)
 subtitle: Pytorch 튜토리얼
 tags: [TAVE, Study, RL]
-author: Park Jaiyoon
+author: Lim Sooyeon
 comments: True
 date: 2020-08-26
 lastmod: 2020-08-17 12:00:00
