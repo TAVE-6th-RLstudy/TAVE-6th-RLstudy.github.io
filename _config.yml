@@ -17,10 +17,10 @@ theme_settings:
     experience:
       - start: 2020-08-13
         end:
-        experience: TAVE, Reinforcement Learning
+        experience: TAVE 6TH, First Half(RL Study)
     skills:
       - skill: STUDY
-        value: 48 # Percent value
+        value: 66 # Percent value
     teammember:
       - name1: Park Jeiyoon | Lee Moonki
       - name2: Lim Sooyeon   | Cho Jaehoon
