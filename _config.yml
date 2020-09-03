@@ -5,7 +5,7 @@ google_analytics: UA-164515885-2
 
 # Blog Settings
 theme_settings:
-  title: TAVE 6TH RL Stydy
+  title: TAVE 6기 강화학습 스터디
   description: Reinforcement Learning
   favicon: assets/favicon.ico
 
@@ -20,7 +20,7 @@ theme_settings:
         experience: TAVE 6TH, First Half(RL Study)
     skills:
       - skill: STUDY
-        value: 66 # Percent value
+        value: 83 # Percent value
     teammember:
       - name1: Park Jeiyoon | Lee Moonki
       - name2: Lim Sooyeon   | Cho Jaehoon
