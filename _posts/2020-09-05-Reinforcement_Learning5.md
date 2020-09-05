@@ -78,11 +78,11 @@ priority: 1.0
 
   ![seq](/assets/img/RL_Study5/seq.png)
 
-  ### <b>\[Source Function]</b>
+  ### <b>\[Score Function]</b>
 
   ![seq2](/assets/img/RL_Study5/seq2.png)
 
-  ### <b>\[Normalize (Sorce에 Softmax를 취한다.)]</b>
+  ### <b>\[Normalize (Score Softmax를 취한다.)]</b>
 
   ![seq3](/assets/img/RL_Study5/seq3.png)
 
