@@ -20,7 +20,7 @@ priority: 1.0
 
 # DQN(Deep Q Network)
 
-## 1) DQN이란?
+## DQN이란?
 
 - DQN 알고리즘은 2013년 딥마인드가 “Playing Atari with Deep Reinforcement Learning”이라는 논문에서 소개되었다.
 - DQN은 Deep SARSA와는 다르게 Q learning의 Q Function을 업데이트 한다.
