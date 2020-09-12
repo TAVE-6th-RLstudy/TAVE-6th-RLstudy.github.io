@@ -18,9 +18,14 @@ theme_settings:
       - start: 2020-08-13
         end: 2020-09-06
         experience: TAVE 6TH, First Half(RL Study)
+      - start: 2020-09-12
+        end: 
+        experience: TAVE 6TH, Second Half(Project)
     skills:
       - skill: First Half Study
         value: 100 # Percent value
+      - skill: Second Half Project
+        value: 1
     teammember:
       - name1: Park Jeiyoon | Lee Moonki
       - name2: Lim Sooyeon   | Cho Jaehoon
