@@ -5,15 +5,15 @@ google_analytics: UA-164515885-2
 
 # Blog Settings
 theme_settings:
-  title: TAVE 6기 강화학습 스터디
-  description: Reinforcement Learning
+  title: "[TAVE 6기] 강화학습 스터디"
+  description: TECHNOLOGY WAVE
   favicon: assets/favicon.ico
 
   # Profile Settings
   profile:
     image: assets/img/smile.png
-    username: TAVE 6기 강화학습팀
-    description: Reinforcement Learning Study&Project
+    username: "[TAVE 6기] 강화학습팀"
+    description: Reinforcement Learning Study & Project
     experience:
       - start: 2020-08-13
         end: 2020-09-06
